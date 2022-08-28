@@ -22,10 +22,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-![HelloWorld](https://user-images.githubusercontent.com/100324887/187097362-cd2a7f73-b9ff-4cee-bac2-cf2b9e69138b.gif)
 
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='HelloWorld.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- ScreenToGif! -->
 GIF created with ScreenToGif
